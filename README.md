@@ -1,5 +1,7 @@
-# 💫 Sobre mi:
-Me llamo Roberto Ángel Baez Salazar, soy un joven de 22 años, apasionado por la tecnología y el desarrollo web.<br>Siempre me gusta aprender tecnologías nuevas, mi fuerte es JavaScript.<br>Soy autodidacta, responsable, se trabajar en equipo, se trabajar bajo presión, además siempre busco cumplir el objetivo
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+</p>
 
 
 ## 🌐 Redes:
